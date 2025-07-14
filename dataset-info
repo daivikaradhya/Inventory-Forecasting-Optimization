@@ -8,3 +8,5 @@ It includes fields like:
 - `SALES`, `PRICEEACH`, etc.
 
 Used to generate monthly demand forecasts for SKU-level inventory optimization.
+
+source link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
