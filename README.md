@@ -31,4 +31,12 @@ To reduce stockouts and overstocking by forecasting demand and recommending dyna
 
 ---
 
+<img width="1106" height="622" alt="dashboard of IFO" src="https://github.com/user-attachments/assets/2c93827e-f7af-4131-a2c8-b937a5c8b8e9" />
+
+
+
+
 Made by Daivik Aradhya
+
+
+
