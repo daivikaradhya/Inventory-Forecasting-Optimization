@@ -1,0 +1,10 @@
+# Dataset Info
+
+The sales data used in this project was sourced from Kaggle.  
+It includes fields like:
+- `PRODUCTCODE`
+- `ORDERDATE`
+- `QUANTITYORDERED`
+- `SALES`, `PRICEEACH`, etc.
+
+Used to generate monthly demand forecasts for SKU-level inventory optimization.
